@@ -9,9 +9,9 @@ You can install this package using **Package Manager**. Add it by this git URL:
 https://github.com/Macoron/Unity-Ply-Export.git
 ```
 
-**Alternatively** just clone or download zip ot this repo and place it somewhere in your Assets folder.
+Alternatively just clone this repo and place files somewhere in your Assets folder.
 
-## Examples
+## Usages
 Export mesh model into .ply file:
 ```csharp
 var meshFilter = GetComponent<MeshFilter>();
@@ -28,6 +28,8 @@ for (int i = 0; i < 1000; i++)
 var ply = PlyExport.ToPlyPointcloud(points.ToArray());
 File.WriteAllText("pointcloud.ply", ply);
 ```
+
+You can also export selected meshes in Editor by clicking menu `Assets => Export selected to .ply`.
 
 ## Limitations
 Keep in mind that not all data is supported for export:
