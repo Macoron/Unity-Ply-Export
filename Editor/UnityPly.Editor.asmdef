@@ -1,0 +1,16 @@
+{
+    "name": "UnityPly.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf4d3a28dda9447e496969b1b6699875"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

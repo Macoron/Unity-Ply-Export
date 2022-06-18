@@ -1,0 +1,11 @@
+{
+  "name": "com.macoron.unityply",
+  "displayName": "Unity Ply",
+  "description": "Export .ply files from Unity3d editor or runtime. Supports pointclouds and polygonal meshes.",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/Macoron/Unity-Ply-Export",
+  "changelogUrl": "https://github.com/Macoron/Unity-Ply-Export/releases",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/Macoron/Unity-Ply-Export/blob/master/LICENSE.txt"
+}
